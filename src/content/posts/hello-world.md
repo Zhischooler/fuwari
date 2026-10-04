@@ -3,7 +3,7 @@ title: 我的第一篇博客文章
 published: 2026-08-23
 description: 我的第一篇博客文章
 tags: [公告]
-category: 第一篇
+category: 公告
 draft: false
 pinned: true
 ---
